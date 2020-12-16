@@ -136,7 +136,7 @@ Vector addition is the simplest acceleration PL kernel. Vitis can create this ap
 7. Run vadd appliation
 
    ```bash
-   ./vadd vadd.xclbin
+   ./vadd binary_container_1.xclbin
    ```
 
 8. It should show program prints and XRT debug info.
